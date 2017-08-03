@@ -1,0 +1,10 @@
+.footer {
+    height:50px;
+    background:darkblue;
+    bottom: 0px; 
+    left: 0px; 
+}
+
+.centered {
+    text-align:center; 
+}
